@@ -137,3 +137,25 @@ which severely limits model improvement.
 Thus, this work will pave the way for a large library of (synthetic) outbreak data 
 to improve calibration and evaluation of future disease models. 
 
+## Cryptic Scenario Modeling Hub - Resources
+
+An associated GitHub repository: [cryptic-scenario-modeling-hub_resources](https://github.com/midas-network/cryptic-scenario-modeling-hub_resources/) 
+contains all the data, documents, and contextual
+materials for the **Scenario Modeling Hub Cryptic Challenge (C-CHA)**.
+
+The repository contains epidemiological data, news reports, government advisories, WHO situation reports,
+and scientific publications that progressively reveal the natural history and spread of the disease.
+The goal is for teams to use these materials to inform their scenario modeling efforts.
+
+> **Important:** All documents, news articles, scientific papers, and advisories in the repository are **fictional** and were created solely for the purposes of this challenge.
+
+
+## How to participate
+
+The Pandemic cryptic phase round is ongoing and open to any modeler willing to provide 
+projections at the right temporal and spatial scales. Scenarios are currently in development 
+and will be shared in mid-2026, with a projection deadline set for the second half of 2026.
+
+Those interested to participate, please read the README file and email
+us at
+[scenariohub\@midasnetwork.us](mailto:scenariohub@midasnetwork.us).
